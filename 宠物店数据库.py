@@ -158,7 +158,7 @@ def main():
             print("再见!")
             winsound.PlaySound("Half-Life Death Sound", winsound.SND_FILENAME)
             break
-        # Essa opção é um 'logout', quando o usuário estiver satisfeito de usar o software e selecionar
+        # Essa opção é um 'logout', quando o usuário estiver satisfeito de usar o software
         # ele seleciona essa opção e o programa prontamente vai se encerrar
 
         else:
